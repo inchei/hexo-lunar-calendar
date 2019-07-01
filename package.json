@@ -1,17 +1,19 @@
 {
-    "name": "hexo-lunar-calendar",
-    "author": "inchei <inchei@protonmail.com> (https://inchei.github.io)",
-    "descripttion": "Lunar calendar for hexo",
-    "version": "0.0.2",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/inchei/hexo-lunar-calendar"
-    },
-    "keywords": ["hexo"],
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/inchei/hexo-lunar-calendar/issues"
-    },
-    "homepage": "https://github.com/inchei/hexo-lunar-calendar"
+  "name": "hexo-lunar-calendar",
+  "author": "inchei <inchei@protonmail.com> (https://inchei.github.io)",
+  "descripttion": "Lunar calendar for hexo",
+  "version": "0.0.3",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inchei/hexo-lunar-calendar"
+  },
+  "keywords": [
+    "hexo"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inchei/hexo-lunar-calendar/issues"
+  },
+  "homepage": "https://github.com/inchei/hexo-lunar-calendar"
 }
