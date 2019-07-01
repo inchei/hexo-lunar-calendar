@@ -2,7 +2,7 @@
   "name": "hexo-lunar-calendar",
   "author": "inchei <inchei@protonmail.com> (https://inchei.github.io)",
   "descripttion": "Lunar calendar for hexo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "repository": {
     "type": "git",
