@@ -3,13 +3,13 @@ Lunar calendar for [hexo](https://hexo.io).
 
 ## Install
 ```
-$ npm install lunar-calendar
-$ npm install hexo-lunar-calendar --save
+$ npm i lunar-calendar
+$ npm i hexo-lunar-calendar
 ```
 
 ## Usage
 ```
-<%= dateLunar(post.date) =>
+<%= dateLunar(date(post.date)) %>
 ```
 
 ## References
